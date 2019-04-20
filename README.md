@@ -1,5 +1,5 @@
 # aosp
-a fast get android source code util
+a fast get android source code util. support windows and mac platform.
 
 ### aosp command
 usage: aosp.py [-h] {pull,branch,checkout,init} ...
